@@ -24,4 +24,6 @@ MonoBehaviour:
 
     2. Rush the door and thrust a handful
     of knuckles through the chestplate of whoever enters.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 803a4d4b2ce60410e82442a39251f897, type: 2}
+  - {fileID: 11400000, guid: c02471463db78451ca2ea4b181f71e31, type: 2}

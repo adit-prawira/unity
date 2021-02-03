@@ -29,4 +29,6 @@ MonoBehaviour:
 
     2. Take
     the time to build a leverage-gadget.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: e92e181ed3e7a45019bb9851826536e8, type: 2}
+  - {fileID: 11400000, guid: e92e181ed3e7a45019bb9851826536e8, type: 2}

@@ -30,4 +30,6 @@ MonoBehaviour:
 
     2.
     Chase the men.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 3cca80a8608b149e5950c34e78a48e29, type: 2}
+  - {fileID: 11400000, guid: 91d81e80755064eeb8016f9df585f707, type: 2}

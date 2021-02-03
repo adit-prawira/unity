@@ -28,4 +28,6 @@ MonoBehaviour:
     1. Pick it.
 
     2. Pry it.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 002be3cb0e43f4771931de284a437ca8, type: 2}
+  - {fileID: 11400000, guid: 1e2f31750676a4218943f2fcf2ff08b7, type: 2}

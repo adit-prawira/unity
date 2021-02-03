@@ -18,7 +18,7 @@ MonoBehaviour:
     least 10 if them guarding the hangar door. Typical.
 
 
-    COuld try punching
+    Could try punching
     my way through. Or sneaking the long way to the emergency exit.
 
 
@@ -30,5 +30,5 @@ MonoBehaviour:
     2. Sneak my way to
     the emergency exit.'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 2ac3c0d238d504331a2f2130bd24265a, type: 2}
+  - {fileID: 11400000, guid: b6bf4ada2fa644aebb64c88b0ebb39f6, type: 2}
